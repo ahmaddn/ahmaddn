@@ -118,7 +118,7 @@ const najmy = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ahmaddn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmaddn)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najmy@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najmyahmadmaulana@gmail.com)
 
 </div>
 
