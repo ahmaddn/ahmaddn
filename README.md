@@ -67,11 +67,22 @@ const najmy = {
 
 | # | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 🏫 | **Sistem Manajemen Sekolah** | Comprehensive school management system covering academic, student, and admin workflows | Laravel · Vue 3 · MySQL |
-| 📚 | **Web Genius** | Interactive e-learning platform for school students with engaging UI | Laravel · Vue 3 · Tailwind |
-| 📝 | **Sistem Manajemen Surat** | Digital letter management system with tracking and archiving | Laravel · MySQL |
-| 📄 | **Sistem Pembuatan SPJ** | Automated accountability letter (SPJ) generation system | Laravel · Vue 3 |
-| 🚨 | **Sistem Manajemen Poin Pelanggaran** | Student violation point tracking and reporting system | Laravel · Vue 3 · MySQL |
+| 🏫 | [**labantik_SIMAS**](https://github.com/ahmaddn/labantik_SIMAS) | School management system covering academic, student, and admin workflows | Laravel · Blade · MySQL |
+| 📚 | [**labantik_geniusapp**](https://github.com/ahmaddn/labantik_geniusapp) | Interactive e-learning ("Media Pembelajaran") platform for elementary school students | Laravel · Vue 3 |
+| 🚨 | [**labantik_point_app**](https://github.com/ahmaddn/labantik_point_app) | Student violation point tracking and reporting system | JavaScript · Laravel |
+| 📄 | [**labantik_spj_app**](https://github.com/ahmaddn/labantik_spj_app) | Accountability report (SPJ) generation system | HTML · Laravel |
+| 📄 | [**aplikasi_labantik_spj**](https://github.com/ahmaddn/aplikasi_labantik_spj) | Companion SPJ management application | HTML · Laravel |
+| 💼 | [**myPorto**](https://github.com/ahmaddn/myPorto) | Personal portfolio website | HTML |
+
+*20 public repositories in total — check out the [full list on GitHub](https://github.com/ahmaddn?tab=repositories).*
+
+---
+
+## 🏆 Achievements
+
+![Pull Shark](https://img.shields.io/badge/Pull_Shark-x3-6366F1?style=for-the-badge)
+![Pair Extraordinaire](https://img.shields.io/badge/Pair_Extraordinaire-6366F1?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-6366F1?style=for-the-badge)
 
 ---
 
