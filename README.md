@@ -81,7 +81,7 @@ const najmy = {
 | Project | Description | Stack |
 |:--|:--|:--|
 | 📚 [**labantik_geniusapp**](https://github.com/ahmaddn/labantik_geniusapp) | GENIUSS — interactive e-learning ("Media Pembelajaran") platform for elementary students | `Laravel` `Vue 3` `Inertia.js` |
-| 💰 [**labantik_digital_kasir_app**](https://github.com/ahmaddn/labantik_digital_kasir_app) | Digital cashier system, database migrated to Supabase (PostgreSQL) | `Laravel` `Blade` `Supabase` |
+| 💰 [**labantik_digital_kasir_app**](https://github.com/ahmaddn/labantik_digital_kasir_app) | Digital cashier system for transaction & stock management | `Laravel` `Blade` `MySQL` |
 | 🏫 [**labantik_SIMAS**](https://github.com/ahmaddn/labantik_SIMAS) | School management system — academic, student & admin workflows | `Laravel` `Blade` `MySQL` |
 | 🚨 [**labantik_point_app**](https://github.com/ahmaddn/labantik_point_app) | Student violation point tracking & reporting | `JavaScript` `Laravel` |
 | 📄 [**labantik_spj_app**](https://github.com/ahmaddn/labantik_spj_app) | Accountability report (SPJ) generation system | `HTML` `Laravel` |
